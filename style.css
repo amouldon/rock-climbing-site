@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins&family=Sofia+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    margin:0px;
+    min-height: 100vh;
+    background-color: darkgrey;
+}
+
+.bg-opacity {
+    background-color: rgba(260, 260, 260, 0.736);
+    border-radius: 4px;
+}
+
+.wall {
+    width:80%;
+}
+
+.inline {
+    display:inline-block
+}
+
+.form {
+    background-color:rgba(255, 255, 255, 0.761);
+    border-radius: 20px;
+    margin-top: 60px !important;
+    padding: 15px 30px;
+
+}
+
+.text {
+    font-size: large;
+}
+
+#indent {
+    text-indent: 20px;
+}
